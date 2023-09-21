@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:<![image](https://github.com/AnubhavRegmi/AnubhavRegmi/assets/100890565/34bd283b-eeab-4b9e-b0f5-4a2daf944e2a)
 /h3>
 <p align="left">
-<a href="www.linkedin.com/in/anubhav-regmi-36310b255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-regmi-36310b255" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anubhav-regmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-regmi-36310b255" height="30" width="40" /></a>
 <a href="https://instagram.com/r.anu__bhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.anu__bhav" height="30" width="40" /></a>
 </p>
 
