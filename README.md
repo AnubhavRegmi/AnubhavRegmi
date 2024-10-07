@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F80CF8&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B;+I+am+Anubhav+Regmi;I+am+a+ComputeScience+undergraduate;I+am+interested+in+Trades+and+Stocks" alt="Typing SVG" /></a>
 
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I Love **Coding**
 
 - 📫 How to reach me **anubhavregmi02@gmail.com**
 
