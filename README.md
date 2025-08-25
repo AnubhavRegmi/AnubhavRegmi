@@ -7,8 +7,6 @@
 
 - 🌱 I Love **Learning how to Code**
 
-- 📫 How to reach me **anubhavregmi02@gmail.com**
-
 - ⚡ Fun fact **I am willing to learn anything**
 
 <h3 align="left">Connect with me:<![image](https://github.com/AnubhavRegmi/AnubhavRegmi/assets/100890565/34bd283b-eeab-4b9e-b0f5-4a2daf944e2a)
