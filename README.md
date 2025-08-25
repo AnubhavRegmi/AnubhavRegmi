@@ -12,15 +12,6 @@
 <h3 align="left">Connect with me:<![image](https://github.com/AnubhavRegmi/AnubhavRegmi/assets/100890565/34bd283b-eeab-4b9e-b0f5-4a2daf944e2a)
   <br/>
 </h3>
-  
-<p align="left">
-<a href="https://www.linkedin.com/in/anubhav-regmi-36310b255" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://instagram.com/r.anu__bhav" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</p>
 
 <h3 align="left" size="Large">Languages</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
